@@ -1,0 +1,7 @@
+nohup: ignoring input
+🚀 Iniciando VIP Mudanças API Mock...
+📍 Usuário padrão: admin@vipmudancas.com.br / vip123456
+ * Serving Flask app 'backend_mock'
+ * Debug mode: on
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
